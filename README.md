@@ -1,1 +1,3 @@
-"# Front-end-testing" 
+# Front-end-testing
+Mocha: https://mochajs.org/
+Chai: http://www.chaijs.com/
