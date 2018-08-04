@@ -22,8 +22,9 @@ https://github.com/appium/appium-desktop/releases
 `$ npm install -g appium`
   
 2. Install appium doctor  
-`$ npm install -g appium-doctor`
-Run appium doctor to verify that all of the dependencies are set up correctly
+`$ npm install -g appium-doctor`  
+  
+3. Run appium doctor to verify that all of the dependencies are set up correctly  
 `$ appium-doctor`  
 `$ appium-doctor --ios`  
 `$ appium-doctor --android`  
