@@ -13,7 +13,7 @@ https://github.com/appium/appium-desktop/releases
 `$ xcode-select --install`  
 - Carthage   
 `$ brew install carthage`  
-- For communication with iOS devices natively
+- For communication with iOS devices natively  
 `$ brew install libimobiledevice --HEAD`  
 `$ npm install -g ios-deploy`  
 
