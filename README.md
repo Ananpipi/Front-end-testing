@@ -1,7 +1,7 @@
 ### Front-end-testing
 
 ### Get Starte
-##Preconditions to use Appium:
+##  Preconditions to use Appium:
 - JDK:  
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html  
 - Android Studio  
@@ -13,6 +13,9 @@ https://github.com/appium/appium-desktop/releases
 `$ xcode-select --install`  
 - Carthage   
 `$ brew install carthage`  
+- For communication with iOS devices natively
+`$ brew install libimobiledevice --HEAD`  
+`$ npm install -g ios-deploy`  
 
 ## Appium
 1. Install Appium  
