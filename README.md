@@ -1,7 +1,7 @@
-### Front-end-testing
+# Front-end-testing
 
-### Get Starte
-##  Preconditions to use Appium:
+## Get Started
+###  Preconditions to use Appium:
 - JDK:  
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html  
 - Android Studio  
